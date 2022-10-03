@@ -35,7 +35,3 @@ output "web_subnet_nsg_id" {
   description = "WebTier Subnet NSG ID"
   value = azurerm_network_security_group.web_subnet_nsg.id
 }
-Footer
-© 2022 GitHub, Inc.
-Footer navigation
-Terms
