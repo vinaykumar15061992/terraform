@@ -19,3 +19,7 @@ resource "azurerm_resource_group" "my_demo_rg1xygz" {
   location = "eastus"
   name = "my-demo-rg1"  
 }
+
+resource "azurerm_private_endpoint" "name" {
+  
+}
